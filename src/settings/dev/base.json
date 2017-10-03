@@ -1,0 +1,6 @@
+{
+  "getDevicesURL"   :"https://api.myjson.com/bins/44992",
+  "getCustomersURL" : "https://api.myjson.com/bins/1a8sq",
+  "apiSample":"https://api.myjson.com/bins/1a8sq",
+  "getOrdersURL":"https://demo0857118.mockable.io/agtech/orders"
+}
